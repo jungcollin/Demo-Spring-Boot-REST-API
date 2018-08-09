@@ -1,4 +1,4 @@
-# Demo-Spring-Boot-REST-API
+# Demo-Spring-Boot-REST-API 
 This is project is to demo: Login security, Auth Token, Rest API, Spring Data
 
 Here are some endpoints you can call:
@@ -15,4 +15,3 @@ http://localhost:8080/login?username=user@demo.com&password=demo2015
 http://localhost:8080/api/users  (to get all user data)
 http://localhost:8080/api/users/{country}  (to get users by country filter)  (to show all the files in a directory)
 http://localhost:8080/api/file/directory  (to show all the files in a directory)
-
